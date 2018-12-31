@@ -1,2 +1,2 @@
 # Radon-Detector-Code
-Early Project
+CWSF Ottawa 2018
